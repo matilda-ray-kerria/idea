@@ -1,0 +1,14 @@
+{
+    "[markdown]": {
+        "editor.formatOnSave": true
+    },
+    "[julia]": {
+        "editor.formatOnSave": true
+    },
+    "[json][jsonc]": {
+        "editor.formatOnSave": true
+    },
+    "cSpell.words": [
+        "alignedat"
+    ]
+}
