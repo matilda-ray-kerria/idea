@@ -1,0 +1,8 @@
+- HostName
+- AddKeysToAgent
+- IdentityFile
+- IdentitiesOnly
+- UseKeychain
+- ControlMaster
+- ControlPath
+- LocalForward
